@@ -1,0 +1,6 @@
+git init
+git status
+git add filename
+git rm --cache filename
+git commit -m "message"
+git push origin master
